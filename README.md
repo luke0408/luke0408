@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SunKyu%20Choi%20(luke0408)&fontSize=70)
 
+<div align=center>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke0408&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h3>
 
 <h3 align="center"><b>🌐 Languages</b></h3>
@@ -48,4 +56,3 @@
 <a herf="mailto:snmsnm320@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 <a href="https://fascinated-carp-209.notion.site/SunKyu-Choi-s-PORTFOLIO-5acffd634cc6426280b9e8bf2861b0bd" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO(notion)-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
 <a href="https://github.com/luke0408" target="_self"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
-</p>
