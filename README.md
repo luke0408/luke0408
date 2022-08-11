@@ -54,5 +54,5 @@
 <h2 align="center"><b>👀 Link 🙌</b></h2>
 <p align="center">
 <a herf="mailto:snmsnm320@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
-<a href="https://fascinated-carp-209.notion.site/SunKyu-Choi-s-PORTFOLIO-5acffd634cc6426280b9e8bf2861b0bd" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO(notion)-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
+<a href="https://fascinated-carp-209.notion.site/SunKyu-Choi-s-PORTFOLIO-5acffd634cc6426280b9e8bf2861b0bd" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO(Korean)-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
 <a href="https://github.com/luke0408" target="_self"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
