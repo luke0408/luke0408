@@ -36,13 +36,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
 </p>
 
-<h3 align="center"><b>🎨 Design Tools</b></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-1F305F?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/> &nbsp
-</p>
-
 <h3 align="center"><b>⚙️ ETCs</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
