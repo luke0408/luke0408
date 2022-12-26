@@ -1,16 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SunKyu%20Choi%20(luke0408)&fontSize=70)
 
+
 <div align=center>
 
-![luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke0408&show_icons=true&theme=radical&count_private=ture)
+![luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke0408&show_icons=true&theme=radical&count_private=true)
 
 </div>
+
 
 <div align=center>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke0408&layout=compact&theme=radical&count_private=ture&exclude_repo=luke0408.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke0408&layout=compact&theme=radical&count_private=true&exclude_repo=luke0408.github.io)
 
 </div>
+
 
 <h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h3>
 
