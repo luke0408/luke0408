@@ -6,6 +6,12 @@
 
 </div>
 
+<div align=center>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke0408&layout=compact&theme=radical)
+
+</div>
+
 <h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h3>
 
 <h3 align="center"><b>🌐 Languages</b></h3>
