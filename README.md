@@ -4,15 +4,13 @@
 
 </div>
 
-<h2 align="center"></h2>
-
-<h2 align="center"><b>👋 Hi there 👋</b></h3>
+<h2 align="center"><b>👋 Hi there 👋</b></h2>
 
 - 😃 I'm a developer who enjoys sharing and communicating what I've learned.
  
 <br>
 
-<h2 align="center"><b>📌 Careers 📌</b></h3>
+<h2 align="center"><b>📌 Careers 📌</b></h2>
 
 - Undergraduate [@Department of AI•Software (AI major)](https://sw.gachon.ac.kr/cms/), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (2022.03 ~ Current)
 - Research Assistant [@Statistical and Intelligent Learning Lab (SIL-LAB)](https://sites.google.com/view/jaeyoungchoi/home), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (Advisor: [Prof.Jaeyoung Choi](https://sites.google.com/view/jaeyoungchoi/people/faculty?authuser=0), 2022.11 ~ 2023.02)
@@ -21,7 +19,7 @@
 
 <br>
 
-<h2 align="center"><b>😎 Stats 😎</b></h3>
+<h2 align="center"><b>😎 Stats 😎</b></h2>
 
 <div align="center">
 
@@ -31,7 +29,7 @@
 
 <br>
 
-<h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h3>
+<h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h2>
 
 <h3 align="center"><b>🌐 Languages</b></h3>
 
@@ -67,7 +65,7 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/> &nbsp
 </p>
 
-<h2 align="center"><b>👀 Link 🙌</b></h2>
+<h3 align="center"><b>👀 Link</b></h3>
 <p align="center">
 <a herf="mailto:zjvl324@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 <a href="https://github.com/luke0408" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO(Korean)-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
