@@ -4,19 +4,32 @@
 
 </div>
 
-<div align=center>
+<h2 align="center"></h2>
 
-![luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke0408&show_icons=true&theme=radical&count_private=true)
+<h2 align="center"><b>👋 Hi there 👋</b></h3>
+
+- 😃 I'm a developer who enjoys sharing and communicating what I've learned.
+ 
+<br>
+
+<h2 align="center"><b>📌 Careers 📌</b></h3>
+
+- Undergraduate [@Department of AI•Software (AI major)](https://sw.gachon.ac.kr/cms/), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (2022.03 ~ Current)
+- Research Assistant [@Statistical and Intelligent Learning Lab (SIL-LAB)](https://sites.google.com/view/jaeyoungchoi/home), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (Advisor: [Prof.Jaeyoung Choi](https://sites.google.com/view/jaeyoungchoi/people/faculty?authuser=0), 2022.11 ~ 2023.02)
+- Boot Camp Mentor, Spring Boot Part Mentor [@12th Rasing Camp](https://risingcamp.com/) (2022.11 ~ 2023.01)
+- Plan(PM) Part Leader [@4th University MakeUs Challenge (UMC)](https://www.makeus.in/umc) of Gachon University (2023.02 ~ Current)
+
+<br>
+
+<h2 align="center"><b>😎 Stats 😎</b></h3>
+
+<div align="center">
+
+![luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke0408&theme=shades-of-purple&count_private=true&show_icons=true)
 
 </div>
 
-
-<div align=center>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke0408&layout=compact&theme=radical&count_private=true&exclude_repo=luke0408.github.io)
-
-</div>
-
+<br>
 
 <h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h3>
 
