@@ -34,7 +34,6 @@
 <h3 align="center"><b>🌐 Languages</b></h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/%20JAVA%20-FF9A00?style=flat-square&logo=&logoColor=white"/> &nbsp 
@@ -49,14 +48,11 @@
 <img src="https://img.shields.io/badge/Windwos-0078D6?style=flat-square&logo=Windows&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> &nbsp
 </p>
 
 <h3 align="center"><b>📚 Libraries and Frameworks</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
 </p>
 
 <h3 align="center"><b>⚙️ ETCs</b></h3>
