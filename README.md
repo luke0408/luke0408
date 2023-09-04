@@ -15,7 +15,8 @@
 - Undergraduate [@Department of AI•Software (AI major)](https://sw.gachon.ac.kr/cms/), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (2022.03 ~ Current)
 - Research Assistant [@Statistical and Intelligent Learning Lab (SIL-LAB)](https://sites.google.com/view/jaeyoungchoi/home), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (Advisor: [Prof.Jaeyoung Choi](https://sites.google.com/view/jaeyoungchoi/people/faculty?authuser=0), 2022.11 ~ 2023.02)
 - Boot Camp Mentor, Spring Boot Part Mentor [@12th Rasing Camp](https://risingcamp.com/) (2022.11 ~ 2023.01)
-- Plan(PM) Part Leader [@4th University MakeUs Challenge (UMC)](https://www.makeus.in/umc) of Gachon University (2023.02 ~ Current)
+- Plan(PM) Part Leader [@4th University MakeUs Challenge (UMC)](https://www.makeus.in/umc) of Gachon University (2023.02 ~ 2023.08)
+- Plan(PM) Part Leader [@5th University MakeUs Challenge (UMC)](https://www.makeus.in/umc) (2023.08 ~ Current)
 
 <br>
 
