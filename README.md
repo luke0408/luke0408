@@ -6,27 +6,27 @@
 
 <h2 align="center"><b>👋 Hi there 👋</b></h2>
 
-- 😃 I'm a developer who enjoys sharing and communicating what I've learned.
+### 저는 { } 개발자 최선규(luke)입니다.
+- 서비스를 이해하기 위해 도메인 지식을 쌓는 것을 즐기는
+- 조직을 이해하기 위해 조직원들과 소통하고, 협업하는 것을 중요하게 생각하는
+- 질문하는 것을 두려워하지 않고, 끊임없이 배우고 성장하는 것을 추구하는
  
 <br>
 
-<h2 align="center"><b>📌 Careers 📌</b></h2>
 
-- Undergraduate [@Department of AI•Software (AI major)](https://sw.gachon.ac.kr/cms/), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (2022.03 ~ Current)
-- Research Assistant [@Statistical and Intelligent Learning Lab (SIL-LAB)](https://sites.google.com/view/jaeyoungchoi/home), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (Advisor: [Prof.Jaeyoung Choi](https://sites.google.com/view/jaeyoungchoi/people/faculty?authuser=0), 2022.11 ~ 2023.02)
-- Boot Camp Mentor, Spring Boot Part Mentor [@12th Rasing Camp](https://risingcamp.com/) (2022.11 ~ 2023.01)
-- Plan(PM) Part Leader [@4th University MakeUs Challenge (UMC)](https://www.makeus.in/umc) of Gachon University (2023.02 ~ 2023.08)
-- Plan(PM) Part Leader [@5th University MakeUs Challenge (UMC)](https://www.makeus.in/umc) (2023.08 ~ Current)
+<h2 align="center"><b>📚 Presentations 📚</b></h2>
+
+- [NE(O)RDINARY DEMODAY : 헤딩 드리븐 성장기](https://demoday.neordinary.co.kr/) (2023.09.08)
 
 <br>
 
-<h2 align="center"><b>😎 Stats 😎</b></h2>
+<h2 align="center"><b>📌 Activity 📌</b></h2>
 
-<div align="center">
-
-![luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke0408&theme=shades-of-purple&count_private=true&show_icons=true)
-
-</div>
+- Undergraduate [@Department of AI•Software (AI major)](https://sw.gachon.ac.kr/cms/), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (2022.03 ~ Current)
+- Research Assistant [@Statistical and Intelligent Learning Lab (SIL-LAB)](https://sites.google.com/view/jaeyoungchoi/home), [Gachon University](https://www.gachon.ac.kr/kor/index.do) (Advisor: [Prof.Jaeyoung Choi](https://sites.google.com/view/jaeyoungchoi/people/faculty?authuser=0), 2022.11 ~ 2023.02)
+- Rising Camp Mentor, Spring Boot Part Mentor [@12th Rasing Camp](https://risingcamp.com/) (2022.11 ~ 2023.01)
+- Plan(PM) Part Leader [@4th University MakeUs Challenge (UMC)](https://www.makeus.in/umc) of Gachon University (2023.02 ~ 2023.08)
+- Plan(PM) Part Leader [@5th University MakeUs Challenge (UMC)](https://www.makeus.in/umc) (2023.08 ~ 2024.03)
 
 <br>
 
@@ -35,31 +35,31 @@
 <h3 align="center"><b>🌐 Languages</b></h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/%20JAVA%20-FF9A00?style=flat-square&logo=&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-1F2724?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> &nbsp
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/> &nbsp
-</p>
-
-<h3 align="center"><b>💾 Platforms</b></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Windwos-0078D6?style=flat-square&logo=Windows&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/%20JAVA%20-FF9A00?style=flat-square&logo=&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/%20Kotlin%20-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/%20Python%20-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
 </p>
 
 <h3 align="center"><b>📚 Libraries and Frameworks</b></h3>
 <p align="center">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> &nbsp
 </p>
 
-<h3 align="center"><b>⚙️ ETCs</b></h3>
+<h3 align="center"><b>⚙️ DB</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/> &nbsp
+</p>
+
+<h3 align="center"><b>🏗️ Infra</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp
 </p>
 
 <h3 align="center"><b>👀 Link</b></h3>
