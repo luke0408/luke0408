@@ -49,8 +49,9 @@
 ## :octocat: Contributions
 
 - **DeepStrictType**
-  - (PR) https://github.com/kakasoo/DeepStrictTypes/pull/8
-    - Implementing the functionality to run unit tests at the file level
+  - (PR) [Implementing the functionality to run unit tests at the file level](https://github.com/kakasoo/DeepStrictTypes/pull/8)
+- **Agentica**: AI Function Calling Framework
+  - (PR) [Indent-based code formatter as a replacement for Prettier](https://github.com/wrtnlabs/agentica/pull/454)
 
 </br>
 
