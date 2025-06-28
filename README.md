@@ -28,6 +28,8 @@
 ## 📚 Presentations
 
 - [NE(O)RDINARY DEMODAY : 헤딩 드리븐 성장기](https://demoday.neordinary.co.kr/) (2023.09.08)
+- [그전에 사용은 하시나요?](https://gdg.community.dev/events/details/google-gdg-on-campus-gachon-university-seongnam-south-korea-presents-24-25-7th-connect-session/) (2025.04.16)
+- [Gridge 개발 챕터 : AI를 만들 수 있게 된 개발자들](https://tech.neordinary.co.kr/ai를-만들-수-있게-된-개발자들-ed277603584f) (2025.04.18)
 
 </br>
 
@@ -39,6 +41,8 @@
 - Plan(PM) Part Leader [University MakeUs Challenge (UMC)](https://www.makeus.in/umc) (2023.02 ~ 2024.03)
   - @4th of Gachon University
   - @5th Core Management Team
+- [TSBM: TypeScript Backend Meet-up](https://github.com/ts-backend-meetup-ts/meetup) Team Member (2025.04 ~ )
+- [GDGoC Gachon Univ](https://gdg.community.dev/gdg-on-campus-gachon-university-seongnam-south-korea/) Team Member (2025.06 ~ )
 
 </br>
 
@@ -53,11 +57,3 @@
 ## 💼 Experience 💼
 
 - **Galloping** - Sofeware Engineer
-
-</br>
-
-## 📄 Contents 📄
-
-- [[Namo] 우당탕탕 AWS 서버 이전기](https://namo-log.vercel.app/server-transfer-on-aws)
-- [[Namo] SSM으로 보안은 강화하고 관리는 쉽게 하자](https://namo-log.vercel.app/server-bastion-host-to-ssm)
-- [[Namo] 스마트하게 Commit 관리하기](https://namo-log.vercel.app/server-git-commit-convention-with-commitlint)
