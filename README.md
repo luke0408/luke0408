@@ -41,7 +41,7 @@
 - Plan(PM) Part Leader [University MakeUs Challenge (UMC)](https://www.makeus.in/umc) (2023.02 ~ 2024.03)
   - @4th of Gachon University
   - @5th Core Management Team
-- [TSBM: TypeScript Backend Meet-up](https://github.com/ts-backend-meetup-ts/meetup) Team Member (2025.04 ~ )
+- [TSBM: TypeScript Backend Meet-up](https://github.com/ts-backend-meetup-ts/meetup) Team Member (2025.05 ~ )
 - [GDGoC Gachon Univ](https://gdg.community.dev/gdg-on-campus-gachon-university-seongnam-south-korea/) Team Member (2025.06 ~ )
 
 </br>
