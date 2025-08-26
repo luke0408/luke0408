@@ -2,7 +2,7 @@
 [![Notions](https://img.shields.io/badge/PORTFOLIO(Korean)-000000?style=flat-square&logo=Notion&logoColor=white)](https://fascinated-carp-209.notion.site/SunKyu-Choi-s-PORTFOLIO-5acffd634cc6426280b9e8bf2861b0bd?pvs=4)
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Luke&reversal=false&textBg=false&descAlign=21&descAlignY=74&fontAlignY=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=918DFE&text=Luke&reversal=false&textBg=false&descAlign=21&descAlignY=74&fontAlignY=40&animation=fadeIn)
 
 ![Java](https://img.shields.io/badge/%20JAVA%20-FF9A00?style=flat-square&logo=&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/%20Kotlin%20-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
