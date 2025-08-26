@@ -4,17 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=918DFE&text=Luke&reversal=false&textBg=false&descAlign=21&descAlignY=74&fontAlignY=40&animation=fadeIn)
 
-![Java](https://img.shields.io/badge/%20JAVA%20-FF9A00?style=flat-square&logo=&logoColor=white)
-![Kotlin](https://img.shields.io/badge/%20Kotlin%20-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/%20TypeScript%20-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-
-
-![NodeJs](https://img.shields.io/badge/NodeJs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-
+![tech](https://skillicons.dev/icons?i=java,kotlin,js,ts,spring,nodejs,nestjs&theme=light)
 
 ## 👋 Hi there
 
